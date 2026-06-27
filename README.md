@@ -30,4 +30,3 @@ O relatório gerado responde a perguntas sobre os itens mais frequentemente perd
 
 ## Autores
 - João Victor Silva de Amorim
-- Gabriel Moura
